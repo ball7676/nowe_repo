@@ -1,1 +1,2 @@
 print("trzy")
+print("cztery")
